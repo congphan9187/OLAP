@@ -11,7 +11,7 @@
 | Họ và tên          | MSSV     | Vai trò     | Liên hệ                     |
 |--------------------|----------|-------------|-----------------------------|
 |🌱  Trần Vũ Bão   | 22520124 | Team member | tranvubao2004@gmail.com          |
-|🌱  Phan Thành Công       | 22520170 | Team member | phanthanhcong982004@gmail.com          |
+|🌱  Phan Thành Công       | 22520170 | Team member | ptcong.data@gmail.com          |
 
 # 3. Bảng phân công và đánh giá
 ![image](https://github.com/user-attachments/assets/69cf9dcb-5a52-48fa-9c4f-080f0772a235)
